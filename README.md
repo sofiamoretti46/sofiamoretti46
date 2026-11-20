@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sofia 👋
 
-<!--
-**sofiamoretti46/sofiamoretti46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm building my developer portfolio through
+practical coding projects and technical
+demonstrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Interested in software development.
+- Focused on learning and building practical
+  solutions.
+- Committed to writing clear, maintainable code.
+
+## Projects
+
+I'll be sharing practical projects and
+demonstrations here as I complete them.
